@@ -3,21 +3,20 @@ description: "Free CDAC C-CAT and CCEE exam preparation materials. Comprehensive
 baseurl: "/CCEE-Extended-explained-good"
 url: "https://satyam123patel.github.io"
 
-# Author and Social
 author:
-  name: Yadnyesh Kolte
-  url: https://yadnyeshkolte.github.io
+  name: Satyam Patel
+  url: https://satyam123patel.github.io
 
 # GitHub Repository
-github_username: yadnyeshkolte
-repository: yadnyeshkolte/cdac-ccee
+github_username: Satyam123Patel
+repository: Satyam123Patel/CCEE-Extended-explained-good
 
 # Social/Open Graph
 social:
-  name: Yadnyesh Kolte
+  name: Satyam Patel
   links:
-    - https://github.com/yadnyeshkolte
-    - https://yadnyeshkolte.github.io
+    - https://github.com/Satyam123Patel
+    - https://satyam123patel.github.io
 
 # Custom theme - no external theme dependency
 
@@ -32,7 +31,7 @@ nav_sort: case_insensitive
 #   "GitHub Repository": "https://github.com/yadnyeshkolte/cdac-ccee"
 
 # Footer
-footer_content: "Copyright &copy; @yadnyeshkolte"
+footer_content: "Copyright &copy; @Satyam123Patel"
 
 # SEO Settings
 lang: en
